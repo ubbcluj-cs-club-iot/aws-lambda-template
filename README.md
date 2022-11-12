@@ -1,2 +1,4 @@
 # aws-lambda-template
-AWS Lambda with SAM and VS Code template repository
+
+This repository is home to a starter project for using Aws Lambda with
+Python, VS Code and the Serverless Application Model (AWS SAM for short). 
